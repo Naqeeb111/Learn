@@ -16,7 +16,7 @@ public class TC_002 {
 	public void m2()
 	{
 		System.out.println("Before Method");
-		System.out.println("Changes");
+		
 	}
 	
 	@AfterMethod
