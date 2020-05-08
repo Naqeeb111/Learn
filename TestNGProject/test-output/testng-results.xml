@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="72" started-at="2020-05-05T11:37:01 IST" finished-at="2020-05-05T11:37:01 IST">
+  <suite name="Default suite" duration-ms="60" started-at="2020-05-09T01:29:35 IST" finished-at="2020-05-09T01:29:35 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="72" started-at="2020-05-05T11:37:01 IST" finished-at="2020-05-05T11:37:01 IST">
-      <class name="testNGExercise.TestNGTest">
-        <test-method status="PASS" signature="m2()[pri:0, instance:testNGExercise.TestNGTest@5ec0a365]" name="m2" is-config="true" duration-ms="12" started-at="2020-05-05T11:37:01 IST" finished-at="2020-05-05T11:37:01 IST">
+    <test name="Default test" duration-ms="60" started-at="2020-05-09T01:29:35 IST" finished-at="2020-05-09T01:29:35 IST">
+      <class name="testNGExercise.TC_002">
+        <test-method status="PASS" signature="m2()[pri:0, instance:testNGExercise.TC_002@4e9ba398]" name="m2" is-config="true" duration-ms="8" started-at="2020-05-09T01:29:35 IST" finished-at="2020-05-09T01:29:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m2 -->
-        <test-method status="PASS" signature="m1()[pri:0, instance:testNGExercise.TestNGTest@5ec0a365]" name="m1" duration-ms="9" started-at="2020-05-05T11:37:01 IST" finished-at="2020-05-05T11:37:01 IST">
+        <test-method status="PASS" signature="m1()[pri:0, instance:testNGExercise.TC_002@4e9ba398]" name="m1" duration-ms="6" started-at="2020-05-09T01:29:35 IST" finished-at="2020-05-09T01:29:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->
-        <test-method status="PASS" signature="m3()[pri:0, instance:testNGExercise.TestNGTest@5ec0a365]" name="m3" is-config="true" duration-ms="1" started-at="2020-05-05T11:37:01 IST" finished-at="2020-05-05T11:37:01 IST">
+        <test-method status="PASS" signature="m3()[pri:0, instance:testNGExercise.TC_002@4e9ba398]" name="m3" is-config="true" duration-ms="0" started-at="2020-05-09T01:29:35 IST" finished-at="2020-05-09T01:29:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m3 -->
-      </class> <!-- testNGExercise.TestNGTest -->
+      </class> <!-- testNGExercise.TC_002 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
